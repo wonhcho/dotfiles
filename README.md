@@ -20,7 +20,7 @@ docker run --rm -it --volume "$HOME":/mnt/ dotfiles
 To install:
 
 ```sh
-git clone https://gitlab.com/d10n/dotfiles.git ~/.config/dotfiles
+git clone https://gitlab.com/wonhcho/dotfiles.git ~/.config/dotfiles
 ~/.config/dotfiles/install
 # Or manually symlink the files and execute the executable files
 ```
